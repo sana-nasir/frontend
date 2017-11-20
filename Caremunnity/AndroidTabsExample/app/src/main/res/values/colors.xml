@@ -14,5 +14,5 @@
     <color name="pageColor1">#FFF59D</color>
     <color name="pageColor2">#FFCC80</color>
     <color name="pageColor3">#FFAB91</color>
-    <color name="tabColor">#2196F3</color>
+    <color name="tabColor">#bf0055ff</color>
 </resources>
