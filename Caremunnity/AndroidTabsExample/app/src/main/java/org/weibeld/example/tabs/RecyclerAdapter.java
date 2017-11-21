@@ -15,7 +15,6 @@ import org.weibeld.example.R;
 import java.util.ArrayList;
 
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.MyViewHolder> {
-
     private ArrayList<friend> arrayList;
     private Context context;
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#0224ff</color>
+    <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#ff4081</color>
 
 
@@ -11,7 +11,7 @@
     <color name="grey">#d6d3d3</color>
 
     <!-- For pages of ViewPager -->
-    <color name="pageColor1">#fff59d</color>
+    <color name="pageColor1">#FFF59D</color>
     <color name="pageColor2">#FFCC80</color>
     <color name="pageColor3">#FFAB91</color>
     <color name="tabColor">#2196F3</color>
